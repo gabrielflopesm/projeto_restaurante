@@ -1,0 +1,96 @@
+html {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+
+}
+
+body {
+    background-image: url(imagens/restaurante.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    color: white;
+
+}
+
+.container {
+    width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+header {
+    height: 118px;
+    text-align: center;
+
+}
+
+
+nav {
+    background-color: rgba(0, 0, 0, 0.534);
+    text-align: center;
+    font-size: 12px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+
+}
+
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding-left: 14px;
+    padding-right: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+main {
+    height: 400px;
+    text-align: center;
+    padding-top: 40px;
+    padding-left: 240px;
+    padding-right: 240px;
+
+}
+
+footer {
+    background-color: rgba(0, 0, 0, 0.774);
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+
+footer p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+}
+
+#venha_comer {
+    color: white;
+    font-size: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#descricao {
+    color: white;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.link {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.maps {
+    padding-bottom: 100px;
+
+}
